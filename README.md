@@ -3,3 +3,6 @@
 pip install ultralytics opencv-python
 將此專題中的app.py和best.pt放置同一資料夾
 最後利用終端機執行app.py即可
+若想偵測圖片 source="image.jpg"
+若想偵測影片 source="video.mp4"
+若想使用手機鏡頭 可先下載手機app " IP WebCam" 開啟Start server ， source="http://xxx.xxx.xxx.xxx/video"
